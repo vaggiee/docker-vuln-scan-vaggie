@@ -26,4 +26,4 @@ jobs:
         uses: docker/scout-action@v1
         with:
           command: cves
-          image: vault:1.13
+          image: traefik:2.10
